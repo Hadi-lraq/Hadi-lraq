@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hadi-lraq
 - 👀 I’m interested in  : argorithmes
 - 🌱 I’m currently learning : google
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on : google
 - 📫 How to reach me : instgram (hif2e)
 
 <!---
